@@ -22,6 +22,7 @@ This project focuses on analyzing bank loan data to gain insights into loan perf
 5. **Insights & Recommendations:** Draw insights from the analysis to make informed decisions on loan policies, risk management strategies, and customer targeting.
 
 #overview DashBoard
+![Screenshot 2024-09-26 120105](https://github.com/user-attachments/assets/fb295377-f4b9-472f-b2c2-303c7e70f27f)
 
 
 ## Getting Started
