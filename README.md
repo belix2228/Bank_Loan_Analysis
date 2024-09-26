@@ -33,6 +33,9 @@ To replicate this analysis, perform the following steps:
 3. Execute the SQL queries in `sql_queries.sql` to prepare the data for analysis.
 4. Open `bank_loan_analysis.pbix` in Power BI to visualize and explore the loan data.
 5. Customize the visualizations and dashboards as needed for your analysis.
+   
+#Details Dashboard
+![Screenshot 2024-09-26 120123](https://github.com/user-attachments/assets/8190f17b-8be7-48db-9e1a-02273063a7db)
 
 ## Contact Information
 
